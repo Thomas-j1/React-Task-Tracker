@@ -23,7 +23,6 @@ function App() {
 
   //Add Task
   const addTask = (task) => {
-    console.log(task)
     //const id = Math.floor(Math.random() * 10000) + 1
     //const id = tasks.length
     const id = taskId
